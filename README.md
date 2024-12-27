@@ -24,3 +24,13 @@
 ## Data Source
 
 The data used in this project is sourced from Airbnb and can be accessed through the following link: - [Inside Airbnb](https://insideairbnb.com/get-the-data/) The data is made available by Inside Airbnb and is used here under the terms of their dataset access policy. Please refer to the [Inside Airbnb Data Terms] (https://insideairbnb.com/get-the-data/) for more details about the data and its usage.
+## License
+
+This code is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+- **You may:** Share the code with proper attribution.
+- **You may not:** Modify, use for commercial purposes, or distribute modified versions.
+
+For more details, see the full license [here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+For any questions regarding usage or permissions, please contact Adamantia Synadinou at adamantia989@gmail.com
